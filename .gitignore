@@ -1,0 +1,4 @@
+*.pdf
+*.txt
+crawler/index
+crawler/urls
